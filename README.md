@@ -105,7 +105,7 @@ Insert image here
 
 
 <br/>![Alt text](<mobile robot pic 1.jpg>)
-<br/>![Alt text](<mobile robot pic 2...jpg>)
+<br/>![Alt text](<mobile robot pic 2...-1.jpg>)
 
 
 <br/>![Alt text](<mobile robot pic 3.jpg>)
